@@ -15,7 +15,7 @@ public class MainActivity extends ActionBarActivity {
     }
 
     /**
-     * »¶ÀÖ¶º·ğµÄĞŞ¸Ä
+     * æ¬¢ä¹é€—ä½›çš„ä¿®æ”¹
      * @param menu
      * @return
      */
@@ -26,6 +26,11 @@ public class MainActivity extends ActionBarActivity {
         return true;
     }
 
+    /**
+     * æ¬¢ä¹é€—ä½›çš„ä¿®æ”¹
+     * @param menu
+     * @return
+     */
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
